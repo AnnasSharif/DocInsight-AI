@@ -1,0 +1,8 @@
+gradio
+requests
+PyPDF2
+python-dotenv
+sentence-transformers
+scikit-learn
+numpy
+fpdf
