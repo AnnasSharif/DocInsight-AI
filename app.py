@@ -146,7 +146,7 @@ def clear_all():
 with gr.Blocks() as demo:
 
     gr.Markdown("""
-    # 📘 DocPilotAI – RAG PDF Chatbot
+    # 📘 DocInsightAI – RAG PDF Chatbot
 
     **Ask questions directly from your own PDF documents.**
 
@@ -194,3 +194,4 @@ with gr.Blocks() as demo:
 
 if __name__ == "__main__":
     demo.launch(theme=gr.themes.Soft(primary_hue="indigo"))
+
