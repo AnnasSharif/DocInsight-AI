@@ -1,5 +1,5 @@
 ---
-title: DocPilotAI – RAG-Based PDF Chatbot
+title: DocInsightAI – RAG-Based PDF Chatbot
 emoji: 📘
 colorFrom: indigo
 colorTo: blue
@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# 📘 DocPilotAI – RAG-Based PDF Chatbot
+# 📘 DocInsightAI – RAG-Based PDF Chatbot
 
 **DocPilotAI** is a web-based **Retrieval-Augmented Generation (RAG)** chatbot designed to help users interact with academic PDF documents more effectively. Instead of manually searching through lengthy files, users can upload multiple PDFs and ask questions to receive **accurate, context-aware answers** strictly grounded in the document content.
 
@@ -86,3 +86,4 @@ A complete demo video demonstrating the functionality of DocPilotAI is included 
 
 **Annas Sharif**  
 Developed as part of an academic lab project using Python, Gradio, and Groq API.
+
